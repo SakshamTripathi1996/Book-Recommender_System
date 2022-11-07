@@ -1,5 +1,12 @@
 # BOOK RECOMMENDATION SYSTEM
 
+### Software And Tools Requirements
+
+1. [GithubAccount](https://github.com)
+2. [HerokuAccount](https://heroku.com)
+3. [VSCodeIDE](https://code.visualstudio.com)
+4. [GitCLI](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line)
+
 ## Objective
 
 The main objective is to create a book recommendation system for users. Recommender systems are really critical in some industries as they can generate a huge amount of income when they are efficient or also be a way to stand out significantly from competitors.
